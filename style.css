@@ -1,0 +1,13 @@
+img{
+    width: 150px;
+    height: 150px;
+}
+
+a{
+    font-size: 30px;
+}
+
+body{
+    max-width: 1024px;
+    text-align:center;
+}
