@@ -23,9 +23,9 @@
     I am studying on the course from RSSchool.
 
 ### Education
--2010 – 2016            Saint-Petersburg State Institute of Technology
--2020                   Geekbrains courses
--2020                   RSSchool
+    -2010 – 2016            Saint-Petersburg State Institute of Technology
+    -2020                   Geekbrains courses
+    -2020                   RSSchool
 
 ### English level
     My English level its A2, but now I’m studying English language with teacher.
